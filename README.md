@@ -9,7 +9,7 @@
 
 ## [ایشو فاز 2](https://github.com/AdvancedProgrammingSUT2022/Issues/blob/main/Phase2Issue.md) [(نمونه)](https://github.com/AdvancedProgrammingSUT2022/Issues/issues/3)
 
-## [ایشو فاز 3](https://github.com/AdvancedProgrammingSUT2022/Issues/blob/main/Phase3Issue.md) [(نمونه)](https://github.com/AdvancedProgrammingSUT2022/Issues/issues/3)
+## [ایشو فاز 3](https://github.com/AdvancedProgrammingSUT2022/Issues/blob/main/Phase3Issue.md) [(نمونه)](https://github.com/AdvancedProgrammingSUT2022/Issues/issues/4)
 
 
 
